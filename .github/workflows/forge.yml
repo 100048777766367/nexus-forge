@@ -1,0 +1,53 @@
+name: Nexus Forge Automated Minting Lifecycle
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+  schedule:
+    - cron: '30 */6 * * *'  # Chạy 4 lần mỗi ngày để tạo sản phẩm mới
+
+permissions:
+  contents: write
+
+jobs:
+  forge-artifacts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kéo mã nguồn Nexus Forge
+        run: |
+          git clone --depth 1 https://github.com/${{ github.repository }}.git .
+
+      - name: Thiết lập Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Vận hành Xưởng Chế Tác Nexus-Forge
+        env:
+          REPO_OWNER: ${{ github.repository_owner }}
+        run: python engine.py
+
+      - name: Lưu vết tích Kỷ Vật mới vào Git
+        run: |
+          git config --global user.name "Nexus-Forge-Artisan-Bot"
+          git config --global user.email "bot@nexus.forge"
+          
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          
+          TARGET_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          [ "$TARGET_BRANCH" = "HEAD" ] || [ -z "$TARGET_BRANCH" ] && TARGET_BRANCH="main"
+
+          git fetch origin "$TARGET_BRANCH"
+          git reset origin/"$TARGET_BRANCH"
+          
+          for d in catalog forge synapses; do
+            [ -d "$d" ] && git add -A "$d"
+          done
+          
+          if ! git diff --staged --quiet; then
+            git commit -m "🔨 [Nexus-Forge] Chế tác thành công Kỷ vật số & Vé Số Nhân Quả mới [skip ci]"
+            git push origin "$TARGET_BRANCH"
+          else
+            echo "Xưởng đúc tĩnh lặng, chưa có xung lực mới."
+          fi
