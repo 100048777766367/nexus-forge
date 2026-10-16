@@ -1,0 +1,14 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Hạt Mầm Nhân Duyên (Causal Seed) #1",
+            "tier_price_usd": 0.2,
+            "raffle_ticket_id": "TICKET-EP5-A1-0x071b78",
+            "meta_uri": "catalog/artifact_1.json",
+            "status": "Available_For_Patronage"
+        }
+    ],
+    "total_minted": 1,
+    "vault_network": "Base"
+}
