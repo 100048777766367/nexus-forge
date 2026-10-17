@@ -71,8 +71,16 @@
             "raffle_ticket_id": "TICKET-EP9-A9-0x451345",
             "meta_uri": "catalog/artifact_9.json",
             "status": "Available_For_Patronage"
+        },
+        {
+            "id": 10,
+            "name": "Hạt Mầm Nhân Duyên (Causal Seed) #10",
+            "tier_price_usd": 0.2,
+            "raffle_ticket_id": "TICKET-EP11-A10-0x2f090f",
+            "meta_uri": "catalog/artifact_10.json",
+            "status": "Available_For_Patronage"
         }
     ],
-    "total_minted": 9,
+    "total_minted": 10,
     "vault_network": "Base"
 }
