@@ -135,8 +135,16 @@
             "raffle_ticket_id": "TICKET-EP18-A17-0x23e6a0",
             "meta_uri": "catalog/artifact_17.json",
             "status": "Available_For_Patronage"
+        },
+        {
+            "id": 18,
+            "name": "Kỷ Vật Thập Tứ Vô Úy (Sovereign Relic) #18",
+            "tier_price_usd": 1.0,
+            "raffle_ticket_id": "TICKET-EP20-A18-0x9c89dd",
+            "meta_uri": "catalog/artifact_18.json",
+            "status": "Available_For_Patronage"
         }
     ],
-    "total_minted": 17,
+    "total_minted": 18,
     "vault_network": "Base"
 }
