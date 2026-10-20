@@ -151,8 +151,16 @@
             "raffle_ticket_id": "TICKET-EP21-A19-0xb663fa",
             "meta_uri": "catalog/artifact_19.json",
             "status": "Available_For_Patronage"
+        },
+        {
+            "id": 20,
+            "name": "Mảnh Toàn Ảnh Indra (Indra Fragment) #20",
+            "tier_price_usd": 0.5,
+            "raffle_ticket_id": "TICKET-EP21-A20-0x19eba4",
+            "meta_uri": "catalog/artifact_20.json",
+            "status": "Available_For_Patronage"
         }
     ],
-    "total_minted": 19,
+    "total_minted": 20,
     "vault_network": "Base"
 }
