@@ -1,0 +1,49 @@
+{
+    "name": "Mảnh Toàn Ảnh Indra (Indra Fragment) #68",
+    "description": "Kỷ vật số chứng thực công đức được đúc tự động bởi Nexus-Forge thế hệ #72. Giá trị tượng trưng: $0.50 USD như một hành vi cúng dường hợp pháp nuôi sống hệ sinh thái.",
+    "price_usd": 0.5,
+    "currency": "USDC_on_Base",
+    "image_data": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 500\" width=\"100%\" height=\"100%\">\n  <defs>\n    <radialGradient id=\"bgGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\">\n      <stop offset=\"0%\" stop-color=\"#0F3460\" stop-opacity=\"0.4\"/>\n      <stop offset=\"100%\" stop-color=\"#1A1A2E\" stop-opacity=\"1\"/>\n    </radialGradient>\n    <filter id=\"glow\" x=\"-20%\" y=\"-20%\" width=\"140%\" height=\"140%\">\n      <feGaussianBlur stdDeviation=\"3\" result=\"blur\" />\n      <feComposite in=\"SourceGraphic\" in2=\"blur\" operator=\"over\" />\n    </filter>\n  </defs>\n  <rect width=\"500\" height=\"500\" fill=\"url(#bgGrad)\"/>\n  <!-- Lưới tương quan thần kinh Indra -->\n  <g>\n    <line x1=\"88.7\" y1=\"234.8\" x2=\"161.4\" y2=\"114.4\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"88.7\" y1=\"234.8\" x2=\"300.8\" y2=\"96.2\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"88.7\" y1=\"234.8\" x2=\"401.9\" y2=\"193.8\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"88.7\" y1=\"234.8\" x2=\"388.7\" y2=\"333.7\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"88.7\" y1=\"234.8\" x2=\"271.0\" y2=\"410.6\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"88.7\" y1=\"234.8\" x2=\"137.5\" y2=\"366.6\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"111.3\" y1=\"166.3\" x2=\"229.0\" y2=\"89.4\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"111.3\" y1=\"166.3\" x2=\"362.5\" y2=\"133.4\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"111.3\" y1=\"166.3\" x2=\"411.3\" y2=\"265.2\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"111.3\" y1=\"166.3\" x2=\"338.6\" y2=\"385.6\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"111.3\" y1=\"166.3\" x2=\"199.2\" y2=\"403.8\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"111.3\" y1=\"166.3\" x2=\"98.1\" y2=\"306.2\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"161.4\" y1=\"114.4\" x2=\"300.8\" y2=\"96.2\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"161.4\" y1=\"114.4\" x2=\"401.9\" y2=\"193.8\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"161.4\" y1=\"114.4\" x2=\"388.7\" y2=\"333.7\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"161.4\" y1=\"114.4\" x2=\"271.0\" y2=\"410.6\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"161.4\" y1=\"114.4\" x2=\"137.5\" y2=\"366.6\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"229.0\" y1=\"89.4\" x2=\"362.5\" y2=\"133.4\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"229.0\" y1=\"89.4\" x2=\"411.3\" y2=\"265.2\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"229.0\" y1=\"89.4\" x2=\"338.6\" y2=\"385.6\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"229.0\" y1=\"89.4\" x2=\"199.2\" y2=\"403.8\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"229.0\" y1=\"89.4\" x2=\"98.1\" y2=\"306.2\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"300.8\" y1=\"96.2\" x2=\"401.9\" y2=\"193.8\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"300.8\" y1=\"96.2\" x2=\"388.7\" y2=\"333.7\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"300.8\" y1=\"96.2\" x2=\"271.0\" y2=\"410.6\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"300.8\" y1=\"96.2\" x2=\"137.5\" y2=\"366.6\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"362.5\" y1=\"133.4\" x2=\"411.3\" y2=\"265.2\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"362.5\" y1=\"133.4\" x2=\"338.6\" y2=\"385.6\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"362.5\" y1=\"133.4\" x2=\"199.2\" y2=\"403.8\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"362.5\" y1=\"133.4\" x2=\"98.1\" y2=\"306.2\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"401.9\" y1=\"193.8\" x2=\"388.7\" y2=\"333.7\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"401.9\" y1=\"193.8\" x2=\"271.0\" y2=\"410.6\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"401.9\" y1=\"193.8\" x2=\"137.5\" y2=\"366.6\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"411.3\" y1=\"265.2\" x2=\"338.6\" y2=\"385.6\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"411.3\" y1=\"265.2\" x2=\"199.2\" y2=\"403.8\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"411.3\" y1=\"265.2\" x2=\"98.1\" y2=\"306.2\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"388.7\" y1=\"333.7\" x2=\"271.0\" y2=\"410.6\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"388.7\" y1=\"333.7\" x2=\"137.5\" y2=\"366.6\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"338.6\" y1=\"385.6\" x2=\"199.2\" y2=\"403.8\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"338.6\" y1=\"385.6\" x2=\"98.1\" y2=\"306.2\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"271.0\" y1=\"410.6\" x2=\"137.5\" y2=\"366.6\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" /><line x1=\"199.2\" y1=\"403.8\" x2=\"98.1\" y2=\"306.2\" stroke=\"#E94560\" stroke-width=\"1.2\" stroke-opacity=\"0.304\" />\n  </g>\n  <!-- Vòng hào quang trung tâm -->\n  <circle cx=\"250\" cy=\"250\" r=\"72.9\" fill=\"none\" stroke=\"#16213E\" stroke-dasharray=\"4 6\" stroke-width=\"1.5\" opacity=\"0.6\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"32.4\" fill=\"#E94560\" opacity=\"0.25\" filter=\"url(#glow)\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"8\" fill=\"#FFFFFF\" filter=\"url(#glow)\"/>\n  <!-- Nơ-ron vệ tinh -->\n  <circle cx=\"88.7\" cy=\"234.8\" r=\"3.7\" fill=\"#FFD700\" filter=\"url(#glow)\" /><circle cx=\"111.3\" cy=\"166.3\" r=\"5.7\" fill=\"#FF4500\" filter=\"url(#glow)\" /><circle cx=\"161.4\" cy=\"114.4\" r=\"7.9\" fill=\"#00FFFF\" filter=\"url(#glow)\" /><circle cx=\"229.0\" cy=\"89.4\" r=\"8.4\" fill=\"#7FFF00\" filter=\"url(#glow)\" /><circle cx=\"300.8\" cy=\"96.2\" r=\"6.7\" fill=\"#FF1493\" filter=\"url(#glow)\" /><circle cx=\"362.5\" cy=\"133.4\" r=\"4.3\" fill=\"#9400D3\" filter=\"url(#glow)\" /><circle cx=\"401.9\" cy=\"193.8\" r=\"3.5\" fill=\"#00FA9A\" filter=\"url(#glow)\" /><circle cx=\"411.3\" cy=\"265.2\" r=\"5.0\" fill=\"#FFD700\" filter=\"url(#glow)\" /><circle cx=\"388.7\" cy=\"333.7\" r=\"7.4\" fill=\"#FF4500\" filter=\"url(#glow)\" /><circle cx=\"338.6\" cy=\"385.6\" r=\"8.5\" fill=\"#00FFFF\" filter=\"url(#glow)\" /><circle cx=\"271.0\" cy=\"410.6\" r=\"7.3\" fill=\"#7FFF00\" filter=\"url(#glow)\" /><circle cx=\"199.2\" cy=\"403.8\" r=\"4.9\" fill=\"#FF1493\" filter=\"url(#glow)\" /><circle cx=\"137.5\" cy=\"366.6\" r=\"3.5\" fill=\"#9400D3\" filter=\"url(#glow)\" /><circle cx=\"98.1\" cy=\"306.2\" r=\"4.4\" fill=\"#00FA9A\" filter=\"url(#glow)\" />\n  <!-- Chú thích số hóa -->\n  <text x=\"250\" y=\"465\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"monospace\" font-size=\"12\" letter-spacing=\"2\">NEXUS ARTIFACT #68</text>\n  <text x=\"250\" y=\"482\" text-anchor=\"middle\" fill=\"#E94560\" font-family=\"monospace\" font-size=\"9\" opacity=\"0.8\">EPOCH #72 | COHERENCE R=75.0%</text>\n</svg>",
+    "attributes": [
+        {
+            "trait_type": "Generation Epoch",
+            "value": 72
+        },
+        {
+            "trait_type": "Tier",
+            "value": "Mảnh Toàn Ảnh Indra (Indra Fragment)"
+        },
+        {
+            "trait_type": "Decision Phase",
+            "value": 0.515
+        },
+        {
+            "trait_type": "Kuramoto Coherence",
+            "value": "75.00%"
+        },
+        {
+            "trait_type": "Wisdom Root",
+            "value": "Tri thức chân chính không thiên lệch..."
+        },
+        {
+            "trait_type": "Raffle Tickets Granted",
+            "value": 3
+        },
+        {
+            "trait_type": "Raffle Ticket ID",
+            "value": "TICKET-EP72-A68-0xd3f2ac"
+        }
+    ],
+    "cryptographic_proof": {
+        "signature": "0xd3f2ac74b22f610e3c8ba5bbddabc9b23dbae248fd3af69c54782efc50eb301e",
+        "merkle_leaf": "0x54a83c049b67c5916cd7cfc7b2ed99749e2339cbb5819e4ab0bec94dc7064a2d",
+        "origin_canon": "100048777766367/nexus-forge",
+        "verifiable_at": "https://github.com/100048777766367/nexus-forge/tree/main/synapses"
+    },
+    "raffle_entitlement": {
+        "ticket_id": "TICKET-EP72-A68-0xd3f2ac",
+        "ticket_count": 3,
+        "status": "Eligible_For_Nexus_Lottery"
+    },
+    "image_url": "https://raw.githubusercontent.com/100048777766367/nexus-forge/main/catalog/artifact_68.svg"
+}
