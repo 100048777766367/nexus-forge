@@ -751,8 +751,16 @@
             "raffle_ticket_id": "TICKET-EP104-A94-0x5cddfb",
             "meta_uri": "catalog/artifact_94.json",
             "status": "Available_For_Patronage"
+        },
+        {
+            "id": 95,
+            "name": "Mảnh Toàn Ảnh Indra (Indra Fragment) #95",
+            "tier_price_usd": 0.5,
+            "raffle_ticket_id": "TICKET-EP106-A95-0x19f6fc",
+            "meta_uri": "catalog/artifact_95.json",
+            "status": "Available_For_Patronage"
         }
     ],
-    "total_minted": 94,
+    "total_minted": 95,
     "vault_network": "Base"
 }
